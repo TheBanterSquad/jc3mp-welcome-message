@@ -1,0 +1,11 @@
+{
+  "name": "jcmp-welcome-message",
+  "version": "1.0.0",
+  "main": "main.js",
+
+  "author": "James Seden Smith",
+  "license": "MIT",
+  "jcmp_dependencies": [
+    "chat"
+  ]
+}
